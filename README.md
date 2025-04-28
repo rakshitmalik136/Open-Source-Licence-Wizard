@@ -137,14 +137,4 @@ We hope the Open Source License Wizard helps you navigate the world of open-sour
 
 ---
 
-### Visual Suggestions
-- **Banner Image**: A visually appealing banner that represents the theme of the project.
-- **Features Overview**: A graphic summarizing the key features of the application.
-- **Installation Steps**: A flowchart or infographic illustrating the installation process.
-- **Usage Flow**: A step-by-step visual guide on how to use the application.
-- **How It Works Diagram**: A diagram that visually explains the scoring and recommendation process.
-- **Contributing Guidelines**: A graphic that outlines the contribution process.
-- **Future Scope**: An infographic highlighting future plans for the project.
-- **Future Goals**: A visual representation of long-term goals and directions.
-
 ---
