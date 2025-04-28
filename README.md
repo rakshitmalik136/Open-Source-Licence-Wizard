@@ -81,6 +81,9 @@ The Open Source License Wizard employs a sophisticated scoring system enhanced b
 4. **Scoring**: Each license is scored based on its alignment with user preferences.
 5. **Recommendation**: The top-scoring licenses are presented as recommendations.
 
+![image](https://github.com/user-attachments/assets/07d75f4e-fae2-4b78-a83d-e08aad76b584)
+
+
 ## Contributing
 
 ![contri_flowchart](./assets/contri_flowchart.png)
