@@ -81,6 +81,9 @@ The Open Source License Wizard employs a sophisticated scoring system enhanced b
 4. **Scoring**: Each license is scored based on its alignment with user preferences.
 5. **Recommendation**: The top-scoring licenses are presented as recommendations.
 
+![image](https://github.com/user-attachments/assets/07d75f4e-fae2-4b78-a83d-e08aad76b584)
+
+
 ## Contributing
 
 ![contri_flowchart](./assets/contri_flowchart.png)
@@ -136,15 +139,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 We hope the Open Source License Wizard helps you navigate the world of open-source licensing with ease and confidence. If you have any questions, suggestions, or feedback, please don't hesitate to open an issue or contact the maintainers. Happy coding! 🚀✨
 
 ---
-
-### Visual Suggestions
-- **Banner Image**: A visually appealing banner that represents the theme of the project.
-- **Features Overview**: A graphic summarizing the key features of the application.
-- **Installation Steps**: A flowchart or infographic illustrating the installation process.
-- **Usage Flow**: A step-by-step visual guide on how to use the application.
-- **How It Works Diagram**: A diagram that visually explains the scoring and recommendation process.
-- **Contributing Guidelines**: A graphic that outlines the contribution process.
-- **Future Scope**: An infographic highlighting future plans for the project.
-- **Future Goals**: A visual representation of long-term goals and directions.
 
 ---
